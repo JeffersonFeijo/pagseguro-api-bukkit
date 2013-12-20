@@ -1,0 +1,3 @@
+name: PagSeguro API
+main: br.com.uol.pagseguro.bukkit.Main
+version: 2.0.4
